@@ -1,0 +1,8 @@
+{
+    "imports": {
+      "/": "./",
+      "./": "./",
+      "dotenv": "https://deno.land/std@0.188.0/dotenv/mod.ts",
+      "pino": "npm:pino@^8.14.1"
+    }
+  }
